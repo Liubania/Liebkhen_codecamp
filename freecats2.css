@@ -1,0 +1,12 @@
+body {
+  /*       display: flex;  */
+  justify-content: center;
+  font-family: "Tahoma", sans-serif;
+  color: rgb(5, 5, 143);
+  background-color: Aqua;
+  border: 5px solid;
+  border-style: ridge;
+  border-color: rgb(2, 2, 89);
+  margin: 10px;
+  padding: 10px;
+}
